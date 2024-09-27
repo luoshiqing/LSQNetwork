@@ -1,0 +1,22 @@
+{
+  "name": "LSQNetwork",
+  "version": "0.1.0",
+  "summary": "niubility LSQNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luoshiqing/LSQNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "罗石清": "shiqing_luo@123cx.com"
+  },
+  "source": {
+    "git": "https://github.com/luoshiqing/LSQNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "LSQNetwork/Classes/**/*"
+}

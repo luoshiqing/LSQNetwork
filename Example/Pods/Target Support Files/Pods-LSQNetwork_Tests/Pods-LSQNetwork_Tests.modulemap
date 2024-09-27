@@ -1,0 +1,6 @@
+framework module Pods_LSQNetwork_Tests {
+  umbrella header "Pods-LSQNetwork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

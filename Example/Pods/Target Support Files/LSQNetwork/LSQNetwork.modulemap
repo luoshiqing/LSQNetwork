@@ -1,0 +1,6 @@
+framework module LSQNetwork {
+  umbrella header "LSQNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+PODS:
+  - LSQNetwork (0.1.0)
+  - Nimble (10.0.0)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - LSQNetwork (from `../`)
+  - Nimble (~> 10.0.0)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  LSQNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSQNetwork: f1bffc4217a537ebe2b435f1841a8c7ce8de2563
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: 6e8014626c3452ea2b81b4741026f56e8683c7e8
+
+COCOAPODS: 1.15.2
