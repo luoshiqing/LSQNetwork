@@ -32,6 +32,9 @@ TODO: Add long description of the pod here.
 	
   s.source_files = 'LSQNetwork/Classes/**/*'
   s.swift_versions = '5.0'
+
+  # 添加第三方依赖
+  s.dependency 'Alamofire', '~> 5.9.1'
   
   # s.resource_bundles = {
   #   'LSQNetwork' => ['LSQNetwork/Assets/*.png']
